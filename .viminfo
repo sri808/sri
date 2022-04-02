@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1648293830,,"wq"
+|2,0,1648893425,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,37 @@
 # Registers:
 
 # File marks:
-'0  1  6  ~/kumari1
-|4,48,1,6,1648293830,"~/kumari1"
-'1  1  10  ~/sri1
-|4,49,1,10,1648293710,"~/sri1"
+'0  1  11  ~/sharu1
+|4,48,1,11,1648893425,"~/sharu1"
+'1  1  6  ~/kumari1
+|4,49,1,6,1648293830,"~/kumari1"
+'2  1  10  ~/sri1
+|4,50,1,10,1648293710,"~/sri1"
 
 # Jumplist (newest first):
+-'  1  11  ~/sharu1
+|4,39,1,11,1648893425,"~/sharu1"
+-'  1  6  ~/kumari1
+|4,39,1,6,1648293830,"~/kumari1"
 -'  1  6  ~/kumari1
 |4,39,1,6,1648293830,"~/kumari1"
 -'  1  10  ~/sri1
 |4,39,1,10,1648293710,"~/sri1"
 -'  1  10  ~/sri1
 |4,39,1,10,1648293710,"~/sri1"
+-'  1  10  ~/sri1
+|4,39,1,10,1648293710,"~/sri1"
+-'  1  10  ~/sri1
+|4,39,1,10,1648293710,"~/sri1"
 
 # History of marks within files (newest to oldest):
+
+> ~/sharu1
+	*	1648893368	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
 
 > ~/kumari1
 	*	1648293825	0
